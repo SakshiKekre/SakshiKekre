@@ -6,12 +6,12 @@ I'm a passionate software developer with a focus on cutting-edge technologies an
 I bring a combination of creativity and technical expertise to every project I work on. My programming style is characterized by simplicity and efficiency, reflecting my commitment to delivering clean and maintainable code.
 
 ## Skills
-- Experienced in Java, Python, C++, JavaScript and more
+- Experienced in Java, Python, C++, JavaScript, HTML, CSS and more
 - Skilled in developing REST APIs
-- Enthusiastic to dive further into web development 
+- Enthusiastic to dive further into web development frameworks
 - Strong understanding of object-oriented concepts and design patterns
-- Have fun writing SQL queries
-- Strong grasp on AWS concepts and services like EC2, Lamnda, IAM, S3 and more
+- Have fun writing SQL queries and understanding databases
+- Strong grasp on AWS concepts and services like EC2, Lambda, IAM, S3 and more
 
 ## Interests
 Outside of work, I enjoy exploring new technologies, participating in hackathons, and contributing to open-source projects. I'm also passionate about continuous learning and staying up-to-date with the latest industry trends.
