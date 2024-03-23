@@ -12,6 +12,7 @@ I bring a combination of creativity and technical expertise to every project I w
 - Strong understanding of object-oriented concepts and design patterns
 - Have fun writing SQL queries and understanding databases
 - Strong grasp on AWS concepts and services like EC2, Lambda, IAM, S3 and more
+- Fundamental grasp of Machine Learning and Artificial Intelligence concepts
 
 ## Interests
 Outside of work, I enjoy exploring new technologies, participating in hackathons, and contributing to open-source projects. I'm also passionate about continuous learning and staying up-to-date with the latest industry trends.
